@@ -1,4 +1,4 @@
-jaz-cwiczenia
+[GRK] Ćwiczenia
 =============
 
-Ćwiczenia, Java
+OpenGL, GDI
